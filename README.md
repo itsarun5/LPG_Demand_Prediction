@@ -47,9 +47,16 @@ Download the Code Save the provided Python code as 'LPG Predictor Regression Mod
 - Unit test style manual checks
   -  Run the script and confirm it prints predicted values for the sample future populations (1120 and 1140).
   - Confirm a plot window opens showing blue points for actual data and red points for predicted values.
-- Interactive checks
-  - In Jupyter Notebook, run cells step by step and inspect intermediate DataFrame contents.
-  - Modify the sample dataset in data/sample_data.csv or in the script and re-run to see how predictions change.
+
+ 
+Interactive Check (VS Code)
+Follow these steps to test interactively in VS Code:
+- Open the project folder in VS Code.
+- Install the Python extension if not already installed.
+- Select the correct Python interpreter from the status bar (choose the virtual environment you created).
+- Open LPG Predictor Regression Model.py in the editor.
+- Run the script using the Run button in the top-right of the editor or press F5. Alternatively run from the integrated terminal:
+
  
 
 # Expected Outcomes
