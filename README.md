@@ -48,8 +48,8 @@ It’s designed to be easy to run and easy to understand — great for coursewor
  
 
 # Expected Outcomes
-Predicted LPG Demand (Tonnes):
-Month 1: 80.00
-Month 2: 85.00
+Predicted LPG Demand (Tonnes):  
+Month 1: 80.00  
+Month 2: 85.00  
 
 
