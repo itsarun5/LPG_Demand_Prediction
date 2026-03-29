@@ -52,4 +52,11 @@ Predicted LPG Demand (Tonnes):
 Month 1: 80.00  
 Month 2: 85.00  
 
+<img width="621" height="477" alt="Screenshot 2026-03-29 222120" src="https://github.com/user-attachments/assets/22569631-3e7a-4cc5-8831-4af26a18d6a1" />
+
+Visualization: a scatter plot titled LPG Demand: Actual vs Predicted with:
+- Blue markers for actual sample data points (populations 1000–1100).
+- Red markers for predicted points (population 1120 → 80 tonnes, population 1140 → 85 tonnes).
+- Interpretation: the model should show a steady increase in predicted LPG demand as population increases. Because the dataset is small and synthetic, expect the model to be illustrative rather than production‑grade.
+
 
