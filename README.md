@@ -1,6 +1,4 @@
-# Vityarthi-AI-ML-Project
-
-# AI Project: LPG Demand Prediction
+# LPG Demand Prediction
 
 ## Overview
 This small project predicts LPG demand using **linear regression** with Python libraries.  
